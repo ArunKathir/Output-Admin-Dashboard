@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://arunkathir.github.io/Output-Admin-Dashboard/static/css/main.32d665c1.css",
-    "main.js": "https://arunkathir.github.io/Output-Admin-Dashboard/static/js/main.28a405b3.js",
+    "main.js": "https://arunkathir.github.io/Output-Admin-Dashboard/static/js/main.fc52b8f4.js",
     "static/js/787.6720a666.chunk.js": "https://arunkathir.github.io/Output-Admin-Dashboard/static/js/787.6720a666.chunk.js",
     "static/media/home-decor-3.jpeg": "https://arunkathir.github.io/Output-Admin-Dashboard/static/media/home-decor-3.74d13fcbd3c631fc7908.jpeg",
     "static/media/home-decor-2.jpeg": "https://arunkathir.github.io/Output-Admin-Dashboard/static/media/home-decor-2.b4e5397c9846645ba275.jpeg",
@@ -28,11 +28,11 @@
     "static/media/logo-atlassian.svg": "https://arunkathir.github.io/Output-Admin-Dashboard/static/media/logo-atlassian.7db5f0ddbe2cfc1d27cb6b81dc560b8f.svg",
     "static/media/pencil.svg": "https://arunkathir.github.io/Output-Admin-Dashboard/static/media/pencil.177258577d59e301b13eb12fe99a2223.svg",
     "main.32d665c1.css.map": "https://arunkathir.github.io/Output-Admin-Dashboard/static/css/main.32d665c1.css.map",
-    "main.28a405b3.js.map": "https://arunkathir.github.io/Output-Admin-Dashboard/static/js/main.28a405b3.js.map",
+    "main.fc52b8f4.js.map": "https://arunkathir.github.io/Output-Admin-Dashboard/static/js/main.fc52b8f4.js.map",
     "787.6720a666.chunk.js.map": "https://arunkathir.github.io/Output-Admin-Dashboard/static/js/787.6720a666.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.32d665c1.css",
-    "static/js/main.28a405b3.js"
+    "static/js/main.fc52b8f4.js"
   ]
 }
